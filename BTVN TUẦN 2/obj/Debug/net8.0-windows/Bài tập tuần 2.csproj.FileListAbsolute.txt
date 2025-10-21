@@ -1,0 +1,38 @@
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài_tập_tuần_2.FormLogin.resources
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài tập tuần 2.csproj.GenerateResource.cache
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài tập tuần 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài tập tuần 2.AssemblyInfoInputs.cache
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài tập tuần 2.AssemblyInfo.cs
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài tập tuần 2.csproj.CoreCompileInputs.cache
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài_tập_tuần_2.FormDangKySanPham.resources
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài_tập_tuần_2.FormQuanLySanPham.resources
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\bin\Debug\net8.0-windows\Bài tập tuần 2.exe
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\bin\Debug\net8.0-windows\Bài tập tuần 2.deps.json
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\bin\Debug\net8.0-windows\Bài tập tuần 2.runtimeconfig.json
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\bin\Debug\net8.0-windows\Bài tập tuần 2.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\bin\Debug\net8.0-windows\Bài tập tuần 2.pdb
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài tập tuần 2.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\obj\Debug\net8.0-windows\refint\Bài tập tuần 2.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài tập tuần 2.pdb
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài tập tuần 2.genruntimeconfig.cache
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\obj\Debug\net8.0-windows\ref\Bài tập tuần 2.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài_tập_tuần_2.Properties.Resources.resources
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\bin\Debug\net8.0-windows\Bài tập tuần 2.exe
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\bin\Debug\net8.0-windows\Bài tập tuần 2.deps.json
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\bin\Debug\net8.0-windows\Bài tập tuần 2.runtimeconfig.json
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\bin\Debug\net8.0-windows\Bài tập tuần 2.dll
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\bin\Debug\net8.0-windows\Bài tập tuần 2.pdb
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài_tập_tuần_2.FormDangKySanPham.resources
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài_tập_tuần_2.FormLogin.resources
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài_tập_tuần_2.FormQuanLySanPham.resources
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài_tập_tuần_2.Properties.Resources.resources
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài tập tuần 2.csproj.GenerateResource.cache
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài tập tuần 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài tập tuần 2.AssemblyInfoInputs.cache
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài tập tuần 2.AssemblyInfo.cs
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài tập tuần 2.csproj.CoreCompileInputs.cache
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài tập tuần 2.dll
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\obj\Debug\net8.0-windows\refint\Bài tập tuần 2.dll
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài tập tuần 2.pdb
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\obj\Debug\net8.0-windows\Bài tập tuần 2.genruntimeconfig.cache
+C:\Users\thinkpad\Downloads\PTUD-DESKTOP-main\Bài tập tuần 2\obj\Debug\net8.0-windows\ref\Bài tập tuần 2.dll
